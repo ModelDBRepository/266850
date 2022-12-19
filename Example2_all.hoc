@@ -1,0 +1,7 @@
+//Example 2 : stimulating all terminals with "Capsaicin"		
+			load_file("Terminal Proj Main.hoc")
+			load_file("Run(All terminals).ses") //Example 1 - Stimulating a single tarminal
+
+
+			//The user can also choose which terminals to stimulate by changing Capsaicin_stimulation.hoc
+			//load_file("Capsaicin_stimulation.hoc") // puts the electrodes in specific or all terminals	
